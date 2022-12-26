@@ -1,0 +1,6 @@
+Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000081e00000, 134217728, 0) failed; error='Bu iþlemin tamamlanmasý için disk belleði dosyasý çok küçük' (DOS error/errno=1455)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 134217728 bytes for G1 virtual space
+# An error report file with more information is saved as:
+# C:\Users\testinium\IdeaProjects\AppiumMesut\hs_err_pid16984.log
